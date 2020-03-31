@@ -1,6 +1,6 @@
 dev
 ===
-
+- group by and aggregate added to analysis.ipynb
 
 0.0.4 (2020-03-31)
 ==================

@@ -1,4 +1,4 @@
-## scimaojr
+## scimagojr
 
 Tiny script for downloading scimaojr journals rating. The main project downloads journals and their meta, given the list of science areas. 
 All industries along with their codes can be found in [areas.json](https://github.com/karpovilia/scimagojr/blob/master/areas.json) file.
