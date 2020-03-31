@@ -1,6 +1,6 @@
 dev
 ===
-
+- readme update, example added
 
 0.0.6 (2020-03-31)
 ==================
