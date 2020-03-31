@@ -1,6 +1,6 @@
 dev
 ===
-
+- local path removed from analysis.ipynb
 
 0.0.2 (2020-03-31)
 ==================
