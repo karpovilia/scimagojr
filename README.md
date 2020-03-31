@@ -8,14 +8,18 @@ Data for March 31, 2020 can be found [here](https://dl.dropbox.com/s/06ni77wvrhu
 vscode `launch.json` example:
 ```
 {
-    "version": "0.2.0",
+    "version": "0.0.3",
     "configurations": [
         {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "./scimagojr/src/__main__.py",
-            "console": "integratedTerminal"
+            "program": "/home/alena/repos/scimagojr/src/__main__.py",
+            "console": "integratedTerminal",
+            "args": [
+                "--dir=/home/alena/repos/scimagojr/",
+                "--areas=areas.json",
+            ],
         }
     ]
 }
