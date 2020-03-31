@@ -1,5 +1,9 @@
 dev
 ===
+
+
+0.0.2 (2020-03-31)
+==================
 - readme update
 - analysis.ipynb cleaned and restarted
 
